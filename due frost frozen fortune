@@ -1,0 +1,185 @@
+-- https://docs.google.com/document/d/1zLDHcggx9FMuczN2v3IZKu6RHEqerBswGgBIAnp6KhI/edit?tab=t.rg6sjsuhxpmq#heading=h.rl5kfuh1ehhb
+
+
+-- Duo frost frozen fortune p2
+-- Shotgun, Ranger, Warlock, Rocket, commander
+
+
+PlaceTower("Shotgunner", 4.378,-6.368,11.130)
+wait(1)
+PlaceTower("Shotgunner", 0.485,-6.368,14.024)
+UpgradeTower(0.485, 14.024)
+PlaceTower("Shotgunner", 4.983,-6.368,13.041)
+wait(1)
+PlaceTower("Shotgunner", 1.153,-6.368,15.919)
+UpgradeTower(1.153, 15.919)
+UpgradeTower(4.378, 11.130)
+UpgradeTower(4.983, 13.041)
+UpgradeTower(4.378, 11.130)
+UpgradeTower(0.485, 14.024)
+UpgradeTower(1.153, 15.919)
+UpgradeTower(4.983, 13.041)
+PlaceTower("Rocketeer", 8.495,-6.368,2.185)
+UpgradeTower(8.495, 2.185)
+UpgradeTower(8.495, 2.185)
+UpgradeTower(8.495, 2.185)
+PlaceTower("Rocketeer", 9.200,-6.368,-0.767)
+UpgradeTower(9.200, -0.767)
+UpgradeTower(9.200, -0.767)
+UpgradeTower(9.200, -0.767)
+PlaceTower("Rocketeer", 9.735,-6.368,-3.896)
+UpgradeTower(9.735, -3.896)
+UpgradeTower(9.735, -3.896)
+UpgradeTower(9.735, -3.896)
+PlaceTower("Rocketeer", 6.651,-6.368,-4.302)
+UpgradeTower(6.651, -4.302)
+UpgradeTower(6.651, -4.302)
+UpgradeTower(6.651, -4.302)
+PlaceTower("Rocketeer", 6.210,-6.368,-1.300)
+UpgradeTower(6.210, -1.300)
+UpgradeTower(6.210, -1.300)
+UpgradeTower(6.210, -1.300)
+PlaceTower("Rocketeer", 3.646,-6.368,-4.288)
+UpgradeTower(3.646, -4.288)
+UpgradeTower(3.646, -4.288)
+UpgradeTower(3.646, -4.288)
+PlaceTower("Commander", 5.189,-6.368,4.860)
+wait(1)
+PlaceTower("Commander", 1.554,-6.368,3.781)
+wait(1)
+PlaceTower("Commander", 4.063,-6.368,2.039)
+wait(1)
+
+
+PlaceTower("Rocketeer", 3.088,-6.368,-1.010)
+wait(1)
+PlaceTower("Rocketeer", 0.691,-6.368,-3.294)
+UpgradeTower(0.691, -3.294)
+UpgradeTower(0.691, -3.294)
+UpgradeTower(0.691, -3.294)
+UpgradeTower(3.088, -1.010)
+UpgradeTower(3.088, -1.010)
+UpgradeTower(3.088, -1.010)
+UpgradeTower(5.189, 4.860)
+UpgradeTower(5.189, 4.860)
+UpgradeTower(4.063, 2.039)
+UpgradeTower(4.063, 2.039)
+UpgradeTower(1.554, 3.781)
+UpgradeTower(1.554, 3.781)
+
+AutoChain({{5.189, 4.860}, {1.554, 3.781}, {4.063, 2.039}})
+
+UpgradeTower(8.495, 2.185)
+
+UpgradeTower(9.200, -0.767)
+
+UpgradeTower(9.735, -3.896)
+
+UpgradeTower(6.210, -1.300)
+
+UpgradeTower(6.651, -4.302)
+
+UpgradeTower(3.088, -1.010)
+
+UpgradeTower(3.646, -4.288)
+
+UpgradeTower(0.691, -3.294)
+
+PlaceTower("Ranger", -6.095,-1.745,10.384)
+UpgradeTower(-6.095, 10.384)
+
+UpgradeTower(-6.095, 10.384)
+PlaceTower("Ranger", -4.057,-1.745,8.130)
+UpgradeTower(-4.057, 8.130)
+UpgradeTower(-4.057, 8.130)
+
+PlaceTower("Ranger", -5.222,-1.745,5.349)
+UpgradeTower(-5.222, 5.349)
+
+UpgradeTower(-5.222, 5.349)
+
+PlaceTower("Ranger", -8.270,-1.745,5.149)
+UpgradeTower(-8.270, 5.149)
+UpgradeTower(-8.270, 5.149)
+PlaceTower("Ranger", -9.763,-1.745,7.890)
+UpgradeTower(-9.763, 7.890)
+UpgradeTower(-9.763, 7.890)
+
+PlaceTower("Ranger", 13.123,-0.956,9.843)
+UpgradeTower(13.123, 9.843)
+UpgradeTower(13.123, 9.843)
+
+PlaceTower("Ranger", 14.148,-0.956,7.009)
+UpgradeTower(14.148, 7.009)
+UpgradeTower(14.148, 7.009)
+UpgradeTower(5.189, 4.860)
+
+UpgradeTower(4.063, 2.039)
+UpgradeTower(1.554, 3.781)
+
+UpgradeTower(5.189, 4.860)
+UpgradeTower(4.063, 2.039)
+
+UpgradeTower(1.554, 3.781)
+
+UpgradeTower(-6.095, 10.384)
+
+UpgradeTower(-4.057, 8.130)
+UpgradeTower(-4.057, 8.130)
+
+UpgradeTower(-6.095, 10.384)
+
+UpgradeTower(-5.222, 5.349)
+UpgradeTower(-5.222, 5.349)
+
+UpgradeTower(-8.270, 5.149)
+
+UpgradeTower(-8.270, 5.149)
+UpgradeTower(-9.763, 7.890)
+
+UpgradeTower(-9.763, 7.890)
+
+UpgradeTower(14.148, 7.009)
+
+UpgradeTower(14.148, 7.009)
+
+UpgradeTower(13.123, 9.843)
+
+UpgradeTower(13.123, 9.843)
+
+PlaceTower("Warlock", 14.032,-6.368,-0.789)
+wait(1)
+PlaceTower("Warlock", 17.086,-6.368,-0.726)
+wait(1)
+PlaceTower("Warlock", 14.514,-6.368,-3.888)
+wait(1)
+PlaceTower("Warlock", 17.541,-6.368,-3.834)
+UpgradeTower(14.032, -0.789)
+UpgradeTower(14.032, -0.789)
+UpgradeTower(14.032, -0.789)
+
+UpgradeTower(14.032, -0.789)
+
+UpgradeTower(14.032, -0.789)
+
+UpgradeTower(14.514, -3.888)
+UpgradeTower(14.514, -3.888)
+
+UpgradeTower(14.514, -3.888)
+UpgradeTower(14.514, -3.888)
+
+UpgradeTower(14.514, -3.888)
+UpgradeTower(17.086, -0.726)
+UpgradeTower(17.086, -0.726)
+UpgradeTower(17.086, -0.726)
+UpgradeTower(17.086, -0.726)
+
+UpgradeTower(17.086, -0.726)
+UpgradeTower(17.541, -3.834)
+UpgradeTower(17.541, -3.834)
+UpgradeTower(17.541, -3.834)
+UpgradeTower(17.541, -3.834)
+UpgradeTower(17.541, -3.834)
+
+AutoChainAPC({{5.189, 4.860}, {1.554, 3.781}, {4.063, 2.039}})
+
