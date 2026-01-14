@@ -1,3 +1,7 @@
+-- https://docs.google.com/document/d/1tDm2aDE-WsA9GkdWVVLASkKdocWhuCZr_La6GfcKoes/edit?tab=t.sfxbztqbamlr
+
+
+
 PlaceTower("Brawler", 34.915,1.000,-23.882)
 PlaceTower("Farm", 21.657,1.000,-34.970)
 UpgradeTower(21.657, -34.970)
